@@ -1,0 +1,20 @@
+{
+  "name": "@darrell.bleakley/twr-platform",
+  "version": "0.0.1",
+  "description": "Thunder Web Runtime Platform Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing Platform TWR\"",
+    "build": "echo \"Building Platform TWR\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbleakley/twr-platform.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbleakley/twr-platform/issues"
+  },
+  "homepage": "https://github.com/dbleakley/twr-platform#readme"
+}
